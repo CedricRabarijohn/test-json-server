@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "firstName": "Tsantaniaina Amboarasoa Guillaume",
+        "lastName": "RAKOTONJANAHARY",
+        "role":"Founder",
+        "slogan":"Hope for the best, prepare for the worst.",
+        "photo":"images/tsanta.jpg"
+    },
+    {
+        "id": 2,
+        "firstName": "Tiana Cedric",
+        "lastName": "RABARIJOHN",
+        "role":"Co-Founder",
+        "slogan":"My code is working (I don't know why).",
+        "photo":"images/cedric.jpg"
+    },
+    {
+        "id": 3,
+        "firstName": "Tahiana Hajanirina",
+        "lastName": "ANDRIAMBAHOAKA",
+        "role":"Co-Founder",
+        "slogan":"First you learn, then you remove the 'L'.",
+        "photo":"images/tahiana.jpg"
+    },
+    {
+        "id": 4,
+        "firstName": "Miantsotiana Fanantenana",
+        "lastName": "RANDRIAMAHEFA",
+        "role":"Co-Founder",
+        "slogan":"Every details count, but not at the same time.",
+        "photo":"images/fanantenana.jpg"
+    },
+    {
+        "id": 5,
+        "firstName": "Liantsoa",
+        "lastName": "RAKOTONIRIANA",
+        "role":"Co-Founder",
+        "slogan":"The organization induces efficiency which itself impacts the quality of personal time.",
+        "photo":"images/liantsoa.jpg"
+    },
+    {
+        "id": 6,
+        "firstName": "Maminiaina Fabruce",
+        "lastName": "RAMAMONJITIANAHARIJAONA",
+        "role":"Co-Founder",
+        "slogan":"Getting together is a start, staying together is a progress, working together is the success.",
+        "photo":"images/fabruce.jpg"
+    }
+]
