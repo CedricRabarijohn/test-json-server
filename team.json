@@ -47,6 +47,14 @@
             "role": "Co-Founder",
             "slogan": "Getting together is a start, staying together is a progress, working together is the success.",
             "photo": "images/fabruce.jpg"
+        },
+        {
+            "id": 7,
+            "firstName": "Anthony Tahiana",
+            "lastName": "ANDRIANTSILAVINA",
+            "role": "Co-Founder",
+            "slogan": "I'm bored.",
+            "photo": "images/liantsoa.jpg"
         }
     ]
 }
