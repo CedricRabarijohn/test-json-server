@@ -2,36 +2,84 @@
     "datas":[
       {
         "CocaCola":{
+            "type":"classic",
             "quantiteDeBase":"250",
             "unite":"ml",
             "apport":{
-                "sucre":"29",
-                "calories":"5"
-            }
+                "sucre":{
+                    "valeur":"27",
+                    "unite":"g"
+                },
+                "calories":{
+                    "valeur":"105",
+                    "unite":"kcal"
+                }
+            },
+            "ref":"http://www.cocacollection.fr/doc/fiche_produit/fiche_produit_coca-cola_classic.pdf"
         },
         "Fanta":{
+            "type":"orange",
             "quantiteDeBase":"250",
             "unite":"ml",
             "apport":{
-                "sucre":"18",
-                "calories":"3"
-            }
+                "sucre":{
+                    "valeur":"16",
+                    "unite":"g"
+                },
+                "calories":{
+                    "valeur":"67",
+                    "unite":"kcal"
+                }
+            },
+            "ref":"https://www.coca-cola-france.fr/content/dam/one/fr/fr/pdf-files/products-information/fanta/fiche-produit-fanta-orange.pdf"
         },
-        "IceTea":{
+        "Snickers":{
+            "type":"Mars Chocolat",
             "quantiteDeBase":"100",
-            "unite":"ml",
+            "unite":"g",
             "apport":{
-                "sucre":"7",
-                "calories":"4"
-            }
+                "sucre":{
+                    "valeur":"51.8",
+                    "unite":"g"
+                },
+                "calories":{
+                    "valeur":"481",
+                    "unite":"kcal"
+                }
+            },
+            "ref":"https://fr.openfoodfacts.org/produit/5000159366229/snickers-mars-chocolat"
         },
-        "SparklingWater":{
+        "KitKat":{
+            "type":"Nestle",
             "quantiteDeBase":"100",
-            "unite":"ml",
+            "unite":"g",
             "apport":{
-                "sucre":"0",
-                "calories":"0"
-            }
+                "sucre":{
+                    "valeur":"49.4",
+                    "unite":"g"
+                },
+                "calories":{
+                    "valeur":"523",
+                    "unite":"kcal"
+                }
+            },
+            "ref":"https://www.episaveurs.fr/system/files/2018-11/Produits/produits-patisserie-et-produits-sucres-0162280-Barre-gauf-choc-lt-41-5Gx36-Kit-Kat-0000002166-FT.pdf"
+        },
+        "Twix":{
+            "type":"",
+            "quantiteDeBase":"100",
+            "unite":"g",
+            "apport":{
+                "sucre":{
+                    "valeur":"49",
+                    "unite":"g"
+                },
+                "calories":{
+                    "valeur":"493",
+                    "unite":"kcal"
+                }
+            },
+            "ref":"https://cdn.api.groupe-pomona.fr/public/products/0091667/branch/es/medias/twix-en-etui-50-g-twix_0091667-es_technical.pdf"
         }
       }
     ]
